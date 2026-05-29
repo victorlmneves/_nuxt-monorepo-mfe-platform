@@ -29,7 +29,7 @@
     "typescript": "^5.5.0",
     "ufo": "*",
     "vue-loader": "17",
-    "webpack": "5.98.0",
+    "webpack": "5.104.1",
     "webpack-hot-middleware": "^2.26.1"
   }
 }

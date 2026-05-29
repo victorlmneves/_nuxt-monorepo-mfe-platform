@@ -1,0 +1,9 @@
+node_modules
+.output
+.nuxt
+dist
+*.log
+.turbo
+.env
+.env.local
+logs/
